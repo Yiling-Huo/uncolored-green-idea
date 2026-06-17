@@ -1,9 +1,9 @@
 # Uncolored Green Idea Game
 A game where you get to build grammatical nonsense sentences like Chomsky did.
 
-[Download game for Windows](https://drive.google.com/file/d/1EBuJQcmogfXuBO1a9Oq5UgpxvvKG98_W/view?usp=drive_link)
+[Download for Windows](https://github.com/Yiling-Huo/worldle-forever/releases/download/v1.0.0/worldle-forever.exe)
 
-[Video demo](https://youtu.be/_x3nDgyR4fc)
+[Download for Mac](https://github.com/Yiling-Huo/uncolored-green-idea/releases/download/v0.1.3/uncolored-green-idea-game-v0.1.3-mac.app.zip)
 
 ### version 0.1.3
 
